@@ -299,6 +299,65 @@
 15. [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
 16. [Snake and Ladder Problem](https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem/0)
 
+### Level 1
+
+1. [Print Adjacency List](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1)
+2. [BFS of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1/)
+3. [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1/)
+4. [Transitive Closure of a Graph](https://practice.geeksforgeeks.org/problems/transitive-closure-of-a-graph0930/1/)
+5. [Union-Find](https://practice.geeksforgeeks.org/problems/union-find/1/)
+6. [Detect Cycle using DSU](https://practice.geeksforgeeks.org/problems/detect-cycle-using-dsu/1/)
+
+### Level 2
+
+1. [Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces/1/)
+2. [Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1/)
+3. [Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/)
+4. [Hamiltonian Path](https://practice.geeksforgeeks.org/problems/hamiltonian-path2522/1/)
+5. [Prerequisite Tasks](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)
+6. [Course Schedule](https://practice.geeksforgeeks.org/problems/course-schedule/1/#)
+7. [Circle of Strings](https://practice.geeksforgeeks.org/problems/circle-of-strings4530/1)
+8. [Snake and Ladder problem](https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1)
+9. [Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1)
+10. [Maximum Bipartite Matching](https://practice.geeksforgeeks.org/problems/maximum-bipartite-matching/1/)
+11. [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/)
+12. [Find whether path exists](https://practice.geeksforgeeks.org/problems/find-whether-path-exist5238/1/)
+13. [Toplogical Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1/)
+14. [Level of Nodes](https://practice.geeksforgeeks.org/problems/level-of-nodes-1587115620/1/)
+15. [Possible paths between 2 vertices](https://practice.geeksforgeeks.org/problems/possible-paths-between-2-vertices-1587115620/1/)
+16. [X Total Shapes](https://practice.geeksforgeeks.org/problems/x-total-shapes3617/1/)
+17. [Distance of nearest cell having 1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1/)
+18. [Mother Vertex](https://practice.geeksforgeeks.org/problems/mother-vertex/1/)
+19. [Unit Area of largest region of 1’s](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)
+20. [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1/)
+21. [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1/)
+22. [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1/)
+23. [Implementing Dijkstra Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1/)
+24. [Neeman’s Shoes](https://practice.geeksforgeeks.org/problems/neemans-shoes/1/)
+25. [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1/)
+26. [Strongly Connected Components (Kosaraju’s Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1/)
+27. [Bridge Edge in Graph](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1/)
+28. [Flood Fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm1856/1)
+29. [Replace O’s with X’s](https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1/)
+30. [Shortest Prime Path](https://practice.geeksforgeeks.org/problems/2b9978653b4d905d12c04387a60e16464ef40733/1/)
+31. [Word Search](https://practice.geeksforgeeks.org/problems/word-search/1/)
+32. [Construct binary palindrome by repeated appending and trimming](https://practice.geeksforgeeks.org/problems/construct-binary-palindrome-by-repeated-appending-and-trimming1005/1/)
+33. [Word Boggle](https://practice.geeksforgeeks.org/problems/word-boggle4143/1/)
+
+### Level 3
+
+1. [Critical Connections](https://practice.geeksforgeeks.org/problems/critical-connections/1/)
+2. [Minimum Cost Path](https://practice.geeksforgeeks.org/problems/minimum-cost-path3833/1/)
+3. [Strongly Connected Components (Tarjan’s Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1/)
+4. [Articulation Point – I](https://practice.geeksforgeeks.org/problems/articulation-point-1/1/)
+5. [Articulation Point – II](https://practice.geeksforgeeks.org/problems/articulation-point2616/1/)
+6. [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
+7. [Word Ladder I](https://practice.geeksforgeeks.org/problems/word-ladder/1/)
+8. [Word Ladder II](https://practice.geeksforgeeks.org/problems/word-ladder-ii/1/)
+9. [Find number of closed islands](https://practice.geeksforgeeks.org/problems/find-number-of-closed-islands/1/)
+10. [Shortest Path by removing K walls](https://practice.geeksforgeeks.org/problems/shortest-path-by-removing-k-walls/1/)
+11. [Find the String](https://practice.geeksforgeeks.org/problems/find-the-string/1/#)
+
 ## Greedy
 
 1. [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
