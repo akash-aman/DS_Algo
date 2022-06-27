@@ -6,7 +6,7 @@
 2. [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets/0)
 3. [Kadane’s Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 4. [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)
-5. [Merge two sorted arrays](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/0/)
+5. [Merge two sorted arrays](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/0/)  [<img align="right" src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/leetcode.svg" style="height: 20px; width:20px;"/>](https://leetcode.com/problems/merge-sorted-array/)
 6. [Rearrange array alternatively](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0/)
 7. [Number of pairs](https://practice.geeksforgeeks.org/problems/number-of-pairs/0/)
 8. [Inversion of Array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0/)
