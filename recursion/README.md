@@ -11,3 +11,6 @@
 - [recursion on subsequence](/recursion/recursion%20on%20subsequence.py)
 - [printing subsequence sum k](/recursion/printing%20subsequence%20sum%20k.py)
 - [count subsequence with sum k](/recursion/count%20subsequence%20with%20sum%20k.py)
+- [combination sum](/recursion/combination%20sum.py) [<img align="right" src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/leetcode.svg" style="height: 20px; width:20px;"/>](https://leetcode.com/problems/combination-sum/)
+- [combination sum ii](/recursion/combination%20sum%20ii.py) [<img align="right" src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/leetcode.svg" style="height: 20px; width:20px;"/>](https://leetcode.com/problems/combination-sum-ii/)
+
