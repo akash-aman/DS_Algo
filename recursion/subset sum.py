@@ -1,26 +1,28 @@
-
-## sum 
-## array
-## index 
+# https://practice.geeksforgeeks.org/problems/subset-sums2234/1
+# -----------------------------------------------------------------------------------
+# required parameter are :-
+## - sum
+## - array
+## - index
 
 class Solution:
 
-    def subsetSum(self,sum,array,index):
+    def subsetSum(self, sum, array, index):
 
         if(index == len(array)):
             print(sum)
-            return 
+            return
 
-        take = self.subsetSum(sum+array[index],array,index+1)
+        take = self.subsetSum(sum+array[index], array, index+1)
 
-        skip = self.subsetSum(sum,array,index+1)
-    
+        skip = self.subsetSum(sum, array, index+1)
+
 
 if __name__ == "__main__":
 
-    arr = [5,2,1]
-    index = 0 
-    sum = 0 
+    arr = [5, 2, 1]
+    index = 0
+    sum = 0
 
     solution = Solution()
-    solution.subsetSum(sum,arr,index)
+    solution.subsetSum(sum, arr, index)
