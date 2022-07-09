@@ -6,3 +6,8 @@
 - [print name n times](/recursion/print%20name%20n%20times.py)
 - [reverse array](/recursion/reverse%20array.py)
 - [sum of first n numbers](/recursion/sum%20of%20first%20n%20numbers.py)
+- [fibonacci](/recursion/fibonacci.py)
+- [palindrome](/recursion/palindrome.py)
+- [recursion on subsequence](/recursion/recursion%20on%20subsequence.py)
+- [printing subsequence sum k](/recursion/printing%20subsequence%20sum%20k.py)
+- [count subsequence with sum k](/recursion/count%20subsequence%20with%20sum%20k.py)
