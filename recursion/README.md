@@ -1,3 +1,3 @@
 ## Recursion 
 
-1. \recursion\print 1 to n.py
+![Factorial of n numbers](/recursion/factorial%20of%20n%20number.py)
