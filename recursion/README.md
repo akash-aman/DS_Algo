@@ -15,3 +15,4 @@
 - [combination sum ii](/recursion/combination%20sum%20ii.py) [<img align="right" src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/leetcode.svg" style="height: 20px; width:20px;"/>](https://leetcode.com/problems/combination-sum-ii/)
 - [subset sum](/recursion/subset%20sum.py) [<img align="right" src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/gfg.svg" style="height: 20px; width:20px;"/>](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)
 - [subset sum ii](/recursion/subset%20sum%20ii.py) [<img align="right" src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/leetcode.svg" style="height: 20px; width:20px;"/>](https://leetcode.com/problems/subsets-ii/)
+- [permutation](/recursion/permutation.py) [<img align="right" src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/leetcode.svg" style="height: 20px; width:20px;"/>](https://leetcode.com/problems/permutations/)
