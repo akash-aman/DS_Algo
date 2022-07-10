@@ -8,7 +8,7 @@
 ## where 'Q' and '.' both indicate a queen and an empty space respectively.
 ## -----------------------------------------------------------------------------
 
-# col 
+# move col ----> wise
 # 
 
 class Solution:
@@ -58,9 +58,46 @@ class Solution:
                 self.solveNQueens(board,col+1)
                 board[row][col] = "."
 
+
+class Solution2:
+    def solveNQueens(self, board, col, leftRow, upperDiagonal, lowerDiagonal):
+
+        for row in range(len(board)):
+
+            if col == len(board):
+                for x in board:
+                    print(x)
+
+                print("\n")
+                return
+
+            if leftRow[row] == False and upperDiagonal[col + row] == False and lowerDiagonal[col - row + len(board) - 1] == False:
+                board[row][col] = "Q"
+                leftRow[row] = True
+                upperDiagonal[col + row] = True
+                lowerDiagonal[col - row + len(board) - 1] = True
+                self.solveNQueens(board, col+1, leftRow,
+                                  upperDiagonal, lowerDiagonal)
+                board[row][col] = "."
+                leftRow[row] = False
+                upperDiagonal[col + row] = False
+                lowerDiagonal[col - row + len(board) - 1] = False
+
+
 if __name__ == "__main__":
 
     n = 5
     board = [['.' for i in range(n)] for j in range(n)]
     s = Solution()
+    s1 = Solution2()
+
+    leftRow = [False for i in range(n)]
+    upperDiagonal = [False for i in range(2*n - 1)]
+    lowerDiagonal = [False for i in range(2*n - 1)]
+    
+    s1.solveNQueens(board, 0, leftRow, upperDiagonal, lowerDiagonal)
     s.solveNQueens(board,0)
+
+
+## -----------------------------------------------------------------------------
+
